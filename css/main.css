@@ -1,5 +1,4 @@
 * {
-  font-family: Bevan, cursive;
   line-height: 1.5;
   box-sizing: inherit;
 }
@@ -24,6 +23,7 @@ h1 {
   margin: 0;
   padding-top: .6em;
   max-width: 15em;
+  font-family: Bevan, serif;
   color: #fff;
   text-align: center;
   border-radius: 10px;
