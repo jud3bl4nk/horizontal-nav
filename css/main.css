@@ -31,6 +31,7 @@ h1 {
 
 .cards ul {
   margin: 0;
+  text-align: center;
 }
 
 .cards li {
@@ -39,7 +40,6 @@ h1 {
   max-width: 15em;
   list-style-type: none;
   font-family: sans-serif;
-  text-align: left;
 }
 
 .cards a:hover {
